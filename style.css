@@ -65,11 +65,14 @@ body{
 }
 .img-1{
     position: absolute;
+    z-index: 1;
 }
 .img-2{
     position: relative;
+    z-index: 2;
 }
 .img-position{
     margin-right: 165px;
     margin-top: 50px;
+    margin-top: 10px;
 }
